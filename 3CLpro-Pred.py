@@ -210,4 +210,4 @@ with tab6:
 with tab7:
   st.markdown('Bhowmik R, Manaithiya A, Vyas B, Nath R, Rehman S, Roy S, Roy R. Identification of potential inhibitor against Ebola virus VP35: insight into virtual screening, pharmacoinformatics profiling, and molecular dynamic studies. Structural Chemistry. DOI: https://doi.org/10.1007/s11224-022-01899-y.')
 with tab8:
-  st.markdown('Ratul Bhowmik, Ajay Manaithiya. [***Department of Pharmaceutical Chemistry, SPER, Jamia Hamdard, New Delhi, India***] ')
+  st.markdown('Ratul Bhowmik, Ajay Manaithiya, Rajarshi Ray. [***Faculty of Medicine and Health Technology, Tampere University, Finland***] ')
