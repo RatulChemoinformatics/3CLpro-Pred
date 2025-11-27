@@ -1,4 +1,4 @@
-# Project Title: Multimolecular feature-based machine learning: system biology enhanced RF-QSAR modeling for the efficient prediction of the inhibitory potential of diverse SARS CoV-2 3CL Protease inhibitors
+# Project Title: Integrated machine learning-driven QSAR modelling and systems biology approach for the identification of potential SARS-CoV-2 3CLpro inhibitors
 
 # 3CLpro-Pred webserver can be found at https://3clpropredictionapp.streamlit.app/
 
