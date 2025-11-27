@@ -2,7 +2,7 @@
 
 # 3CLpro-Pred webserver can be found at https://3clpropredictionapp.streamlit.app/
 
-# Manuscript published in SARS and QSAR in Environmental Research (Taylor and Francis): https://doi.org/10.1080/1062936X.2025.2584058
+# Manuscript published in SAR and QSAR in Environmental Research (Taylor and Francis): https://doi.org/10.1080/1062936X.2025.2584058
 
 
 ![Graphical Abstract](./Logo.png)
