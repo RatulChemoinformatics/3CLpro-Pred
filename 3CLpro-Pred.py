@@ -208,6 +208,7 @@ with tab6:
     - `padelpy`
   ''')
 with tab7:
-  st.markdown('Bhowmik R, Manaithiya A, Vyas B, Nath R, Rehman S, Roy S, Roy R. Identification of potential inhibitor against Ebola virus VP35: insight into virtual screening, pharmacoinformatics profiling, and molecular dynamic studies. Structural Chemistry. DOI: https://doi.org/10.1007/s11224-022-01899-y.')
+  st.markdown('Bhowmik R, Manaithiya A, Ray R, Aspatwar A. Integrated machine learning-driven QSAR modelling and systems biology approach for the identification of potential SARS-CoV-2 3CLpro inhibitors. DOI: https://doi.org/10.1080/1062936X.2025.2584058.')
 with tab8:
   st.markdown('Ratul Bhowmik, Ajay Manaithiya, Rajarshi Ray. [***Faculty of Medicine and Health Technology, Tampere University, Finland***] ')
+
